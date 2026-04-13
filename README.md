@@ -71,7 +71,7 @@ The plugin works out of the box with no configuration required. The delivery tim
 ## Support
 
 For support and feature requests, please:
-- Create an issue in the [GitHub repository](https://github.com/your-username/grozmate-delivery-date)
+- Create an issue in the [GitHub repository](https://github.com/sanaach66/wc-gm-delivery-date)
 - Contact the plugin author
 
 ## License
@@ -82,7 +82,7 @@ This plugin is licensed under the GNU General Public License v2.0. See the [LICE
 
 **Sana Ullah**
 - WordPress Developer
-- Email: [your-email@example.com]
+- Email: tradersana66@gmail.com
 
 ## Credits
 
