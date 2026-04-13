@@ -1,0 +1,16 @@
+= Changelog =
+All notable changes to the Groz Mate Delivery Date plugin will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+== 1.0.0 - 2025-04-13 ==
+* Initial release
+* Added delivery date field to WooCommerce checkout
+* Implemented date validation to prevent past date selection
+* Added fixed delivery time window (2:00 PM - 6:00 PM)
+* Integrated delivery information display in admin order pages
+* Added delivery details to customer and admin email notifications
+* Implemented proper data sanitization and security measures
+* Added WordPress coding standards compliance
+* Created comprehensive documentation and GitHub-ready files
